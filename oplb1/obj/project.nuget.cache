@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VpW8pKT39Ho=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tyzty\\source\\repos\\oplb1\\oplb1\\oplb1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyzty\\.nuget\\packages\\libvlcsharp\\3.9.2\\libvlcsharp.3.9.2.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\libvlcsharp.winforms\\3.9.2\\libvlcsharp.winforms.3.9.2.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\videolan.libvlc.windows\\3.0.21\\videolan.libvlc.windows.3.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
