@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gaWSROVsn4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tyzty\\source\\repos\\oplb2\\oplb2\\oplb2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyzty\\.nuget\\packages\\libvlcsharp\\3.9.2\\libvlcsharp.3.9.2.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\libvlcsharp.winforms\\3.9.2\\libvlcsharp.winforms.3.9.2.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\medallionshell\\1.6.1\\medallionshell.1.6.1.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\mediatoolkit\\1.1.0.1\\mediatoolkit.1.1.0.1.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\mediatoolkit.netcore\\0.2.1-preview\\mediatoolkit.netcore.0.2.1-preview.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\system.io.abstractions\\9.0.4\\system.io.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.7.0\\system.io.filesystem.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\tyzty\\.nuget\\packages\\videolan.libvlc.windows\\3.0.21\\videolan.libvlc.windows.3.0.21.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MediaToolkit 1.1.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net9.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MediaToolkit",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
+}
