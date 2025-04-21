@@ -1,0 +1,16 @@
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\bin\Debug\net8.0-windows\oplb3wop.exe
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\bin\Debug\net8.0-windows\oplb3wop.deps.json
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\bin\Debug\net8.0-windows\oplb3wop.runtimeconfig.json
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\bin\Debug\net8.0-windows\oplb3wop.dll
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\bin\Debug\net8.0-windows\oplb3wop.pdb
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\oplb3wop.Form1.resources
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\oplb3wop.csproj.GenerateResource.cache
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\oplb3wop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\oplb3wop.AssemblyInfoInputs.cache
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\oplb3wop.AssemblyInfo.cs
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\oplb3wop.csproj.CoreCompileInputs.cache
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\oplb3wop.dll
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\refint\oplb3wop.dll
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\oplb3wop.pdb
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\oplb3wop.genruntimeconfig.cache
+C:\Users\tyzty\source\repos\oplb3wop\oplb3wop\obj\Debug\net8.0-windows\ref\oplb3wop.dll
