@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.13">
+  <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
+    <mxGraphModel dx="1667" dy="632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=100;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="31" y="599" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-2" value="Form1" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="41" y="659" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=110;tabHeight=27;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="271" y="460" width="500" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-5" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;div&gt;ICloudStorageProvider&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="500" width="270" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-6" value="+ ProviderName: string {readOnly}&lt;div&gt;+ RootFolderId: string {readOnly}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-5">
+          <mxGeometry y="40" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-5">
+          <mxGeometry y="80" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-8" value="Connect()&lt;div&gt;GetFiles(path: string): CloudFile[]&lt;/div&gt;&lt;div&gt;DownloadFile(fileId: string,&amp;nbsp;localPath:&lt;font&gt;&amp;nbsp;&lt;/font&gt;string)&lt;/div&gt;&lt;div&gt;UploadFile(localPath: string,&amp;nbsp;remotePath:&lt;font&gt;&amp;nbsp;&lt;/font&gt;string)&lt;/div&gt;&lt;div&gt;DeleteFile(fileId: string)&lt;/div&gt;&lt;div&gt;&lt;div&gt;RenameFile(fileId: string,&amp;nbsp;newName:&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&amp;nbsp;&lt;/font&gt;string&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;CreateFolder(parentId: string, folderName&lt;font color=&quot;#ba0000&quot;&gt;:&amp;nbsp;&lt;/font&gt;string): string&lt;/div&gt;&lt;div&gt;NormalizePath(path: string): string&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-5">
+          <mxGeometry y="88" width="270" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-9" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=90;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="41" y="749" width="310" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-14" value="GUI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="41" y="599" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-15" value="PluginInterface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="297" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-16" value="YandexPlugin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="749" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-17" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=90;tabHeight=30;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="371" y="779" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-18" value="GooglePlugin&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="789" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MlvuX3eNkof-qoZ4F7d_-1" target="MlvuX3eNkof-qoZ4F7d_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-20" value="CloudFile" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="591" y="560" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-21" value="+ Name: string&lt;div&gt;+ path:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+ IsDirectory: bool&lt;/div&gt;&lt;div&gt;+ Size: long&lt;/div&gt;&lt;div&gt;+ MimeType: string&lt;/div&gt;&lt;div&gt;+ DonwloadUrl: string&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-20">
+          <mxGeometry y="26" width="150" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-24" value="GoogleDrivePlugin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="819" width="270" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-25" value="+ ProviderName: string&lt;div&gt;+ RootFolderId: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;dService:&amp;nbsp;DriveService&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-24">
+          <mxGeometry y="30" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-26" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-24">
+          <mxGeometry y="80" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-27" value="Connect()&lt;div&gt;GetFiles(path: string): CloudFile[]s&lt;/div&gt;&lt;div&gt;DownloadFile(fileId: string,&amp;nbsp;localPath:&lt;font&gt;&amp;nbsp;&lt;/font&gt;string)&lt;/div&gt;&lt;div&gt;UploadFile(localPath: string,&amp;nbsp;remotePath:&lt;font&gt;&amp;nbsp;&lt;/font&gt;string)&lt;/div&gt;&lt;div&gt;DeleteFile(fileId: string)&lt;/div&gt;&lt;div&gt;&lt;div&gt;RenameFile(fileId: string,&amp;nbsp;newName:&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&amp;nbsp;&lt;/font&gt;string&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;CreateFolder(parentId: string, folderName&lt;font color=&quot;#ba0000&quot;&gt;:&amp;nbsp;&lt;/font&gt;string): string&lt;/div&gt;&lt;div&gt;- GetMimeType&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(fileName: string): string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;NormalizePath(path: string): string&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-24">
+          <mxGeometry y="88" width="270" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-28" value="YandexDiskPlugin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="789" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-29" value="+ ProviderName: string&lt;div&gt;+ RootFolderId: string&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;dApi:&amp;nbsp;IDiskApi&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-28">
+          <mxGeometry y="30" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-30" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-28">
+          <mxGeometry y="80" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-31" value="Connect()&lt;div&gt;GetFiles(path: string): CloudFile[]&lt;/div&gt;&lt;div&gt;DownloadFile(fileId: string,&amp;nbsp;localPath:&lt;font&gt;&amp;nbsp;&lt;/font&gt;string)&lt;/div&gt;&lt;div&gt;UploadFile(localPath: string,&amp;nbsp;remotePath:&lt;font&gt;&amp;nbsp;&lt;/font&gt;string)&lt;/div&gt;&lt;div&gt;DeleteFile(fileId: string)&lt;/div&gt;&lt;div&gt;&lt;div&gt;RenameFile(fileId: string,&amp;nbsp;newName:&lt;font color=&quot;rgba(0, 0, 0, 0)&quot;&gt;&amp;nbsp;&lt;/font&gt;string&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;CreateFolder(parentId: string, folderName&lt;font color=&quot;#ba0000&quot;&gt;:&amp;nbsp;&lt;/font&gt;string): string&lt;/div&gt;&lt;div&gt;- CombinePaths&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(path1: string,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;path2: string&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;): string&lt;/span&gt;&lt;/div&gt;&lt;div&gt;NormalizePath(path: string): string&lt;/div&gt;&lt;/div&gt;&lt;div&gt;-GetFilesInfo(path: string): CloudFile&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MlvuX3eNkof-qoZ4F7d_-28">
+          <mxGeometry y="88" width="270" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;endSize=16;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="543.6" y="839.85" as="sourcePoint" />
+            <mxPoint x="411.0400000000001" y="729.998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="544" y="760" />
+              <mxPoint x="411" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.392;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;strokeWidth=1;endSize=16;dashed=1;" edge="1" parent="1" source="MlvuX3eNkof-qoZ4F7d_-28" target="MlvuX3eNkof-qoZ4F7d_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=open;startFill=0;endArrow=none;endSize=6;startSize=12;dashed=1;" edge="1" parent="1" source="MlvuX3eNkof-qoZ4F7d_-21" target="MlvuX3eNkof-qoZ4F7d_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.131;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;endSize=12;startFill=0;startArrow=diamond;startSize=12;" edge="1" parent="1" source="MlvuX3eNkof-qoZ4F7d_-2" target="MlvuX3eNkof-qoZ4F7d_-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="241" y="684" />
+              <mxPoint x="241" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MlvuX3eNkof-qoZ4F7d_-40" value="-cldproviders" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="191" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
