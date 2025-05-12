@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opl4", "opl4\opl4.csproj", "{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opl4.Plugins", "opl4.Plugins\opl4.Plugins.csproj", "{F23DE75B-0B85-43C9-A07F-8C1A9D76FCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opl4.GoogleDrivePlugin", "opl4.GoogleDrivePlugin\opl4.GoogleDrivePlugin.csproj", "{528235EB-820F-4855-B59E-0722C9F87D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opl4.YandexDiskPlugin", "opl4.YandexDiskPlugin\opl4.YandexDiskPlugin.csproj", "{C29D8B7D-74AD-407F-92DD-E4C24F82FDB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23DE75B-0B85-43C9-A07F-8C1A9D76FCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23DE75B-0B85-43C9-A07F-8C1A9D76FCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23DE75B-0B85-43C9-A07F-8C1A9D76FCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23DE75B-0B85-43C9-A07F-8C1A9D76FCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528235EB-820F-4855-B59E-0722C9F87D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528235EB-820F-4855-B59E-0722C9F87D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528235EB-820F-4855-B59E-0722C9F87D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528235EB-820F-4855-B59E-0722C9F87D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29D8B7D-74AD-407F-92DD-E4C24F82FDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29D8B7D-74AD-407F-92DD-E4C24F82FDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29D8B7D-74AD-407F-92DD-E4C24F82FDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29D8B7D-74AD-407F-92DD-E4C24F82FDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF72112-91F6-42E8-9E87-444F445F038D}
+	EndGlobalSection
+EndGlobal

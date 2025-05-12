@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyzty\\source\\repos\\opl4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|c:\\users\\tyzty\\source\\repos\\opl4\\opl4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|solutionrelative:opl4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23DE75B-0B85-43C9-A07F-8C1A9D76FCFD}|opl4.Plugins\\opl4.Plugins.csproj|c:\\users\\tyzty\\source\\repos\\opl4\\opl4.plugins\\icloudstorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23DE75B-0B85-43C9-A07F-8C1A9D76FCFD}|opl4.Plugins\\opl4.Plugins.csproj|solutionrelative:opl4.plugins\\icloudstorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29D8B7D-74AD-407F-92DD-E4C24F82FDB5}|opl4.YandexDiskPlugin\\opl4.YandexDiskPlugin.csproj|c:\\users\\tyzty\\source\\repos\\opl4\\opl4.yandexdiskplugin\\yandexdiskplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29D8B7D-74AD-407F-92DD-E4C24F82FDB5}|opl4.YandexDiskPlugin\\opl4.YandexDiskPlugin.csproj|solutionrelative:opl4.yandexdiskplugin\\yandexdiskplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528235EB-820F-4855-B59E-0722C9F87D2B}|opl4.GoogleDrivePlugin\\opl4.GoogleDrivePlugin.csproj|c:\\users\\tyzty\\source\\repos\\opl4\\opl4.googledriveplugin\\googledriveplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528235EB-820F-4855-B59E-0722C9F87D2B}|opl4.GoogleDrivePlugin\\opl4.GoogleDrivePlugin.csproj|solutionrelative:opl4.googledriveplugin\\googledriveplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|c:\\users\\tyzty\\source\\repos\\opl4\\opl4\\fontawsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|solutionrelative:opl4\\fontawsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|c:\\users\\tyzty\\source\\repos\\opl4\\opl4\\pluginloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|solutionrelative:opl4\\pluginloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|solutionrelative:opl4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|c:\\users\\tyzty\\source\\repos\\opl4\\opl4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9817DE3C-ABFE-4F6D-B417-04BDC3E8ED8A}|opl4\\opl4.csproj|solutionrelative:opl4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C29D8B7D-74AD-407F-92DD-E4C24F82FDB5}|opl4.YandexDiskPlugin\\opl4.YandexDiskPlugin.csproj|c:\\users\\tyzty\\source\\repos\\opl4\\opl4.yandexdiskplugin\\opl4.yandexdiskplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C29D8B7D-74AD-407F-92DD-E4C24F82FDB5}|opl4.YandexDiskPlugin\\opl4.YandexDiskPlugin.csproj|solutionrelative:opl4.yandexdiskplugin\\opl4.yandexdiskplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528235EB-820F-4855-B59E-0722C9F87D2B}|opl4.GoogleDrivePlugin\\opl4.GoogleDrivePlugin.csproj|c:\\users\\tyzty\\source\\repos\\opl4\\opl4.googledriveplugin\\opl4.googledriveplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{528235EB-820F-4855-B59E-0722C9F87D2B}|opl4.GoogleDrivePlugin\\opl4.GoogleDrivePlugin.csproj|solutionrelative:opl4.googledriveplugin\\opl4.googledriveplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICloudStorageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.Plugins\\ICloudStorageProvider.cs",
+              "RelativeDocumentMoniker": "opl4.Plugins\\ICloudStorageProvider.cs",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.Plugins\\ICloudStorageProvider.cs",
+              "RelativeToolTip": "opl4.Plugins\\ICloudStorageProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:03:36.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\Form1.cs",
+              "RelativeDocumentMoniker": "opl4\\Form1.cs",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\Form1.cs",
+              "RelativeToolTip": "opl4\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:16:09.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YandexDiskPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.YandexDiskPlugin\\YandexDiskPlugin.cs",
+              "RelativeDocumentMoniker": "opl4.YandexDiskPlugin\\YandexDiskPlugin.cs",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.YandexDiskPlugin\\YandexDiskPlugin.cs",
+              "RelativeToolTip": "opl4.YandexDiskPlugin\\YandexDiskPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:43:53.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoogleDrivePlugin.cs",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.GoogleDrivePlugin\\GoogleDrivePlugin.cs",
+              "RelativeDocumentMoniker": "opl4.GoogleDrivePlugin\\GoogleDrivePlugin.cs",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.GoogleDrivePlugin\\GoogleDrivePlugin.cs",
+              "RelativeToolTip": "opl4.GoogleDrivePlugin\\GoogleDrivePlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:05:18.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fontawsm.cs",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\Fontawsm.cs",
+              "RelativeDocumentMoniker": "opl4\\Fontawsm.cs",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\Fontawsm.cs",
+              "RelativeToolTip": "opl4\\Fontawsm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:44:55.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PluginLoadContext.cs",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\PluginLoadContext.cs",
+              "RelativeDocumentMoniker": "opl4\\PluginLoadContext.cs",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\PluginLoadContext.cs",
+              "RelativeToolTip": "opl4\\PluginLoadContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:26:43.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "opl4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\Form1.Designer.cs",
+              "RelativeToolTip": "opl4\\Form1.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:02:45.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\Form1.cs",
+              "RelativeDocumentMoniker": "opl4\\Form1.cs",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "opl4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:31:34.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "opl4.GoogleDrivePlugin",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.GoogleDrivePlugin\\opl4.GoogleDrivePlugin.csproj",
+              "RelativeDocumentMoniker": "opl4.GoogleDrivePlugin\\opl4.GoogleDrivePlugin.csproj",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.GoogleDrivePlugin\\opl4.GoogleDrivePlugin.csproj",
+              "RelativeToolTip": "opl4.GoogleDrivePlugin\\opl4.GoogleDrivePlugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T10:54:50.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "opl4.YandexDiskPlugin",
+              "DocumentMoniker": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.YandexDiskPlugin\\opl4.YandexDiskPlugin.csproj",
+              "RelativeDocumentMoniker": "opl4.YandexDiskPlugin\\opl4.YandexDiskPlugin.csproj",
+              "ToolTip": "C:\\Users\\tyzty\\source\\repos\\opl4\\opl4.YandexDiskPlugin\\opl4.YandexDiskPlugin.csproj",
+              "RelativeToolTip": "opl4.YandexDiskPlugin\\opl4.YandexDiskPlugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T10:54:36.191Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
